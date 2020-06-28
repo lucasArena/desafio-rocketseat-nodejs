@@ -1,4 +1,4 @@
-<p align="center">
+<div align="center" style="display: flex;justify-content:space-around">
   <div>
     <img alt="ReactJS" src="https://res.cloudinary.com/lucasarena/image/upload/v1586864237/Icons/typescript_ey1iu6.png" height="200"><br>
     <h1>Typescript</h1>
@@ -7,7 +7,7 @@
     <img alt="ReactJS" src="https://res.cloudinary.com/lucasarena/image/upload/v1593363067/Icons/rocketseat-logo_igaow9.jpg" height="200"><br>
     <h1>Rocketseat</h1>
   </div>
-</p>
+</div>
 
 <h4 align="center">
   Node's challengue from Rocketseat Bootcamp 11.0
