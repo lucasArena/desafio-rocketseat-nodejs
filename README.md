@@ -1,11 +1,11 @@
 <div align="center" style="display: flex;justify-content:space-between">
   <div>
     <img alt="ReactJS" src="https://res.cloudinary.com/lucasarena/image/upload/v1586864237/Icons/typescript_ey1iu6.png" height="200"><br>
-    Typescript
+    <h1>Typescript</h1>
   </div>
   <div>
     <img alt="ReactJS" src="https://res.cloudinary.com/lucasarena/image/upload/v1593363067/Icons/rocketseat-logo_igaow9.jpg" height="200"><br>
-    Rocketseat
+    <h1>Rocketseat</h1>
   </div>
 </div>
 
