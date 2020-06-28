@@ -1,6 +1,6 @@
 <p align="center">
-    <img alt="ReactJS" src="https://res.cloudinary.com/lucasarena/image/upload/v1586864237/Icons/typescript_ey1iu6.png" /><br>
-    <img alt="ReactJS" src="https://res.cloudinary.com/lucasarena/image/upload/v1593363067/Icons/rocketseat-logo_igaow9.jpg" />
+    <img alt="ReactJS" src="https://res.cloudinary.com/lucasarena/image/upload/v1586864237/Icons/typescript_ey1iu6.png" height="250" width="250" />
+    <img alt="ReactJS" src="https://res.cloudinary.com/lucasarena/image/upload/v1593363067/Icons/rocketseat-logo_igaow9.jpg" height="250" width="380" />
 </p>
 
 <h4 align="center">
